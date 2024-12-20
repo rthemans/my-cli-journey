@@ -1,6 +1,12 @@
 # My CLI journey
 The aim of this repo is to relate, share, discuss command line interface usage.
 
+## Map of Content
+1. [Understanding the basics](basics.md)
+2. [First setup](setup.md)
+3. [Most used commands](commons.md)
+4. [Going beyond](beyond.md)
+
 ## Short introduction
 ### Who am I?
 I’m a belgian fullstack software developer who started in Octobre 2016.
@@ -35,5 +41,8 @@ Here is the list of elements that made me do the move, ranking from most impactf
 - Making my home server with home-assistant, jellyfin, portainer,…
 
 ### Aim
-
-## Topics
+This Repository aims at the providing the following:
+- Place to start your journey to use CLI
+- Learn both basics and in depth of CLI
+- Reminder for common commands
+- Make yourself autonom towards the usage of CLI
